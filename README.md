@@ -1,4 +1,4 @@
-I do not like the News icon/feature which Facebook has implemented, so I made a quick and simple browser extension to delete it. Currently only written for the Chrome browser, works automatically upon opening Facebook.
+I do not like the News icon/feature which Facebook has implemented, so I made a quick and simple browser extension to delete it. Currently only written for the Chrome browser. Works automatically upon opening Facebook.
 
 - Open the Chrome Extensions tab (chrome://extensions/).
 - In the upper right-hand corner, toggle "Developer Mode" on.
