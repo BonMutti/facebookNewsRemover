@@ -6,7 +6,7 @@
   "content_scripts": [
     {
       "matches": ["*://*.facebook.com/*"],
-      "js": ["jquery-3.6.0.min.js", "scripts/newsRemover.js"]
+      "js": ["scripts/newsRemover.js"]
     }
   ]
 }
